@@ -10,3 +10,8 @@
     Hola mundo, estamos en una reuniones
   </body>
 </html>
+
+
+<?php 
+echo "agregamos la cosa";
+?>
